@@ -1,0 +1,27 @@
+body {
+  font-family: Arial;
+  background: #f5f5f5;
+}
+
+.container {
+  width: 500px;
+  margin: auto;
+  padding: 20px;
+  background: blue;
+  border: 2px solid black;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+  margin-bottom: 10px;
+}
